@@ -1,7 +1,7 @@
-package com.psysoftware.man10ChatScanner
+package com.psysoftware.man10chatscanner
 
 import net.md_5.bungee.api.plugin.Plugin
-import com.psysoftware.man10ChatScanner.PlayerChatListener
+import com.psysoftware.man10chatscanner.PlayerChatListener
 
 class Man10ChatScanner : Plugin() {
 

@@ -1,4 +1,4 @@
-package com.psysoftware.man10ChatScanner
+package com.psysoftware.man10chatscanner
 
 import java.io.File
 import java.io.IOException
