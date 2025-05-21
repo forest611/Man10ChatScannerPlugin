@@ -1,4 +1,4 @@
-package com.psysoftware.man10ChatScanner
+package com.psysoftware.man10chatscanner
 
 import net.md_5.bungee.api.plugin.Listener
 import net.md_5.bungee.api.event.ChatEvent
